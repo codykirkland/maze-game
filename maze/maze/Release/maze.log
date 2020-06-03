@@ -1,0 +1,11 @@
+﻿  game.cpp
+game.cpp(50): warning C4018: '<': signed/unsigned mismatch
+game.cpp(52): warning C4018: '<': signed/unsigned mismatch
+game.cpp(72): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  0 of 279 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  maze.vcxproj -> E:\usb\c++\fin2\maze\Release\maze.exe
+  maze.vcxproj -> E:\usb\c++\fin2\maze\Release\maze.pdb (Full PDB)
